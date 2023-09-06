@@ -1,3 +1,17 @@
-# Це початок
+---
+cover: >-
+  https://cdn.paizo.com/d960ad1b-9967-00f9-1158-72274b18312d/314fcf8f-05de-490f-9048-452487c9df4f/2E-Core_1920.jpg
+coverY: 0
+---
 
-<figure><img src="https://images.unsplash.com/photo-1629809189194-8302d4345c8a?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxMHx8dWtyYWluZSU1Q3xlbnwwfHx8fDE2OTM5ODg0Mjl8MA&#x26;ixlib=rb-4.0.3&#x26;q=85" alt=""><figcaption></figcaption></figure>
+# Головна
+
+Вітаю! Ви знаходитесь на проєкті перекладу гри Pathfinder 2e на українську мову.
+
+Цілі на найближчий час:
+
+* Перекласти Core Book
+
+Спільнота перекладу:
+
+Телеграм _(не існує)_ - Діскорд _(не існує)_
