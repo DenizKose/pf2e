@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Головна](README.md)
+* [🇺🇦 Головна](README.md)
 
 ## 🚀 Введення <a href="#introduction" id="introduction"></a>
 
