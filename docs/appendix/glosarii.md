@@ -1,6 +1,7 @@
 # Глосарій
 
 ### Aasimar (trait)
+
 A creature with this trait has the aasimar versatile heritage. Aasimars are planar scions descended from celestial beings. An ability with this trait can be used or selected only by aasimars.
 ### Aberration (trait)
 Aberrations are creatures from beyond the planes or corruptions of the natural order.
@@ -27,7 +28,7 @@ Effects with this trait deal acid damage. Creatures with this trait have a magic
 Perform tasks requiring coordination and grace. (Dex)
 ### Actions
 Discrete tasks that generate a specific effect, possibly requiring a check to determine the result. Actions can be used to accomplish a variety of things, such as moving, attacking, casting a spell, or interacting with an item or object. Most creatures can use up to 3 actions during their turn.
-### Single Action ([one-action])
+### Single Action (![one-action](../../source/img/action.png))
 See also single action.
 ### Activate an Item (activity)
 You provide specified components to activate an alchemical or magical item. The number of actions this takes varies by item.
