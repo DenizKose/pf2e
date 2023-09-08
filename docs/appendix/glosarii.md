@@ -28,15 +28,15 @@ Effects with this trait deal acid damage. Creatures with this trait have a magic
 Perform tasks requiring coordination and grace. (Dex)
 ### Actions
 Discrete tasks that generate a specific effect, possibly requiring a check to determine the result. Actions can be used to accomplish a variety of things, such as moving, attacking, casting a spell, or interacting with an item or object. Most creatures can use up to 3 actions during their turn.
-### Single Action (<img src="../../source/img/action.png" height="24" alt="[one-actions]">)
+### Single Action (<img src="../../source/img/action.png" width="24" alt="[one-actions]">)
 See also single action.
 ### Activate an Item (activity)
 You provide specified components to activate an alchemical or magical item. The number of actions this takes varies by item.
 ### Activity
-A category of action that typically takes more than a single action. Activities on your turn take 2 actions (<img src="../../source/img/action_double.png" height="24px" alt="[two-actions]">) or 3 actions (<img src="../../source/img/action_tripple.png" height="24px" alt="[three-actions]">). Exploration and downtime activities can take minutes, hours, or days
+A category of action that typically takes more than a single action. Activities on your turn take 2 actions (<img src="../../source/img/action_double.png" width="34" alt="[two-actions]">) or 3 actions (<img src="../../source/img/action_tripple.png" width="43" alt="[three-actions]">). Exploration and downtime activities can take minutes, hours, or days
 ### Additive (trait)
 Feats with the additive trait allow you to spend actions to add special substances to bombs or elixirs. You can add only one additive to a single alchemical item, and attempting to add another spoils the item. You can typically use actions with the additive trait only when you’re creating an infused alchemical item, and some can be used only with the Quick Alchemy action. The additive trait is always followed by a level, such as “additive 2”. An additive adds its level to the level of the alchemical item you’re modifying; the result is the new level of the mixture. The mixture’s item level must be no higher than your advanced alchemy level.
-### Administer First Aid (<img src="../../source/img/action_double.png" height="24px" alt="[two-actions]">) (skill action)
+### Administer First Aid (<img src="../../source/img/action_double.png" width="34" alt="[two-actions]">) (skill action)
 Stabilize a dying creature or stanch bleeding. (Medicine)
 ### Adventure
 A single narrative—including the setup, plot, and conclusion. The player characters play through an adventure over the course of one or more game sessions, and the adventure might be part of a larger campaign.
@@ -46,7 +46,7 @@ Activity used to attach a talisman to an item.
 An affliction can affect a creature for a long time, over several different stages. The most common kinds are curses, diseases, and poisons.
 ### Agile (weapon trait)
 The multiple attack penalty you take with this weapon on the second attack on your turn is –4 instead of –5, and –8 instead of –10 on the third and subsequent attacks in the turn.
-### Aid (<img src="../../source/img/action_reaction.png" height="24px" alt="[reaction]">) (basic action)
+### Aid (<img src="../../source/img/action_reaction.png" width="24" alt="[reaction]">) (basic action)
 Reaction used to Grant a bonus to an ally’s skill check or attack roll.
 ### Air (trait)
 Effects with the air trait either manipulate or conjure air. Those that manipulate air have no effect in a vacuum or an area without air. Creatures with this trait consist primarily of air or have a magical connection to that element.
@@ -86,7 +86,7 @@ A specified shape and size of an effect.
 magical and special armor
 ### Armor Class (AC)
 This score represents how hard it is to hit and damage a creature. It typically serves as the DC to hit a creature with an attack. AC = 10 + Dex modifier (up to your armor’s Dex Cap) + proficiency bonus + armor’s item bonus to AC + other bonuses + penalties.
-### Arrest a Fall (<img src="../../source/img/action_reaction.png" height="24px" alt="[reaction]">) (specialty basic action)
+### Arrest a Fall (<img src="../../source/img/action_reaction.png" width="24" alt="[reaction]">) (specialty basic action)
 Use Acrobatics to slow your fall while flying.
 ### Astral (trait)
 Astral creatures are native of the Astral Plane. They can survive the basic environmental effects of the Astral Plane.
@@ -101,13 +101,13 @@ A reaction used to grant a bonus to an ally’s attack roll.
 –5 on your second attack, –10 on further attacks
 ### Unarmed attack attack (trait)
 An ability with this trait involves an attack. For each attack you make beyond the first on your turn, you take a multiple attack penalty.
-### Attack of Opportunity (<img src="../../source/img/action_reaction.png" height="24px" alt="[reaction]">)
+### Attack of Opportunity (<img src="../../source/img/action_reaction.png" width="24" alt="[reaction]">)
 A reaction fighters and some other characters gain.
 ### Auditory (trait)
 Auditory actions and effects rely on sound. An action with the auditory trait can be successfully performed only if the creature using the action can speak or otherwise produce the required sounds. A spell or effect with the auditory trait has its effect only if the target can hear it. This applies only to sound-based parts of the effect, as determined by the GM. This is different from a sonic effect, which still affects targets who can’t hear it (such as deaf targets) as long as the effect itself makes sound.
 ### Aura
 An aura is an emanation that continually ebbs out from you, affecting creatures within a certain radius. Aura can also refer to the magical signature of an item or a creature with a strong alignment.
-### Avert Gaze (<img src="../../source/img/action.png" height="24px" alt="[one-actions]">) (specialty basic action)
+### Avert Gaze (<img src="../../source/img/action.png" width="24" alt="[one-actions]">) (specialty basic action)
 Get a +2 bonus against visual abilities.
 ### Avoid Notice (exploration activity)
 Use Stealth to move without being detected.
@@ -117,7 +117,7 @@ This family of celestials is native to Elysium. They are typically chaotic good 
 The experiences your character had before becoming an adventurer. Each player character chooses a background during character creation.
 ### Backstabber (weapon trait)
 ### Backswing (weapon trait)
-### Balance (<img src="../../source/img/action.png" height="24px" alt="[one-actions]">) (skill action)
+### Balance (<img src="../../source/img/action.png" width="24" alt="[one-actions]">) (skill action)
 Move on a narrow or unstable surface. (Acrobatics)
 ### Barbarian (class)
 ### Barbarian (trait)
@@ -152,7 +152,7 @@ When an object’s HP reaches this number, it becomes broken.
 ### Bulk
 A value indicating an item’s size, weight, and general awkwardness. It takes 10 items of light Bulk to equal 1 Bulk, and 1, coins are 1 Bulk. A character becomes encumbered if they carry Bulk greater than 5 + their Str modifier, and they can’t carry more than 10 + their Str modifier.
 ### Bulwark (armor trait)
-### Burrow (<img src="../../source/img/action.png" height="24px" alt="[one-actions]">) (specialty basic action)
+### Burrow (<img src="../../source/img/action.png" width="24" alt="[one-actions]">) (specialty basic action)
 Move up to your burrow Speed.
 ### Campaign
 A serialized story focusing on a single party of characters and taking place over multiple adventures.
@@ -193,7 +193,7 @@ The adventuring profession chosen by a character. Each player character picks a 
 Any ability granted by a class is a class feature. These mainly consist of class feats and other abilities specific to the class.
 ### Cleric (trait)
 This indicates abilities from the cleric class.
-### Climb (<img src="../../source/img/action.png" height="24px" alt="[one-actions]">) (skill action)
+### Climb (<img src="../../source/img/action.png" width="24" alt="[one-actions]">) (skill action)
 Move along an incline or vertical surface. (Athletics)
 ### Clumsy (condition)
 You can’t move as easily or gracefully as usual.
@@ -205,7 +205,7 @@ Effects with this trait deal cold damage. Creatures with this trait have a conne
 ### Cold iron (material)
 ### Comfort (armor trait)
 ### Command (item activation component)
-### Command an Animal (<img src="../../source/img/action.png" height="24px" alt="[one-actions]">) (skill action)
+### Command an Animal (<img src="../../source/img/action.png" width="24" alt="[one-actions]">) (skill action)
 Get an animal to obey you. (Nature)
 ### Common (trait)
 Anything that doesn’t list another rarity trait (uncommon, rare, or unique) automatically has the common trait. This rarity indicates that an ability, item, or spell is available to all players who meet the prerequisites for it.
@@ -217,7 +217,7 @@ A hazard with this trait takes turns in an encounter.
 A process used to Cast a Spell or Activate an Item.
 ### Composition (trait)
 To cast a composition cantrip or focus spell, you usually use a type of Performance. If the spell includes a verbal component, you must use an auditory performance, and if it includes a somatic component, you must use a visual one. The spell gains all the traits of the performance you used. You can cast only one composition spell each turn, and you can have only one active at a time. If you cast a new composition spell, any ongoing effects from your previous composition spell end immediately.
-### Conceal an Object (<img src="../../source/img/action.png" height="24px" alt="[one-actions]">) (skill action)
+### Conceal an Object (<img src="../../source/img/action.png" width="24" alt="[one-actions]">) (skill action)
 Hide an object on your person. (Stealth)
 ### Concealable (weapon trait)
 This weapon is designed to be inconspicuous or easily concealed. You gain a +2 circumstance bonus to Stealth checks and DCs to hide or conceal a weapon with this trait.
@@ -249,7 +249,7 @@ Another creature determines your actions.
 ### Copper piece (cp)
 ### Counteract
 The process used when one effect tries to negate another.
-### Counterspell (<img src="../../source/img/action_reaction.png" height="24px" alt="[reaction]">)
+### Counterspell (<img src="../../source/img/action_reaction.png" width="24" alt="[reaction]">)
 A reaction some spellcasters can use to negate spells.
 ### Cover
 When you’re behind a physical obstacle, you get a +2 circumstance bonus to AC, Reflex saves vs. area effects, and Stealth checks. This increases to +4 for greater cover. Creatures can provide lesser cover: a +1 circumstance bonus to AC.
@@ -260,9 +260,9 @@ Conceal your trail during exploration. (Survival, trained)
 Make an item during downtime. (Crafting, trained)
 ### Crafting (skill)
 Create, understand, and repair items. (Int)
-### Crawl (<img src="../../source/img/action.png" height="24px" alt="[one-actions]">) (basic action)
+### Crawl (<img src="../../source/img/action.png" width="24" alt="[one-actions]">) (basic action)
 Move 5 feet while prone.
-### Create a Diversion (<img src="../../source/img/action.png" height="24px" alt="[one-actions]">) (skill action)
+### Create a Diversion (<img src="../../source/img/action.png" width="24" alt="[one-actions]">) (skill action)
 Distract someone. (Deception)
 ### Create Forgery (skill action)
 Make a false document in downtime. (Society, trained)
@@ -313,11 +313,11 @@ Travel with your shield raised.
 The four possible outcomes of a check: critical success, success, failure, and critical failure.
 ### Deity
 Deities are powerful entities that live beyond the world and grant power in the form of spells to their truly devoted believers.
-### Delay (<img src="../../source/img/action_free.png" height="24px" alt="[free-action]">)(basic action)
+### Delay (<img src="../../source/img/action_free.png" width="24" alt="[free-action]">)(basic action)
 Take your turn later.
 ### Demon (trait)
 A family of fiends, demons hail from or trace their origins to the Abyss. Most are irredeemably chaotic evil and have darkvision.
-### Demoralize (<img src="../../source/img/action.png" height="24px" alt="[one-actions]">) (skill action)
+### Demoralize (<img src="../../source/img/action.png" width="24" alt="[one-actions]">) (skill action)
 Frighten your enemies. (Intimidation)
 ### Detect Magic (exploration activity)
 Cast detect magic at regular intervals.
@@ -348,16 +348,16 @@ Creatures and objects in dim light are concealed.
 These reptiles have survived from prehistoric times.
 ### Diplomacy (skill)
 Influence others through negotiation and flattery. (Cha) –,
-### Disable a Device (<img src="../../source/img/action_double.png" height="24px" alt="[two-actions]">) (skill action)
+### Disable a Device (<img src="../../source/img/action_double.png" width="34" alt="[two-actions]">) (skill action)
 Disable a trap or a similar complex mechanism. (Thievery, trained)
 ### Disarm (weapon trait)
-### Disarm (<img src="../../source/img/action.png" height="24px" alt="[one-actions]">) (skill action)
+### Disarm (<img src="../../source/img/action.png" width="24" alt="[one-actions]">) (skill action)
 Make a creature drop an item. (Athletics, trained)
 ### Disbelieve
 Attempt to ignore an illusion.
 ### Disease (trait)
 An effect with this trait applies one or more diseases. A disease is typically an affliction.
-### Dismiss (<img src="../../source/img/action.png" height="24px" alt="[one-actions]">) (action)
+### Dismiss (<img src="../../source/img/action.png" width="24" alt="[one-actions]">) (action)
 End a spell or magic item effect that can be dismissed.
 ### Dispel
 See also counteract.
@@ -376,7 +376,7 @@ Dragons are reptilian creatures, often winged or with the power of flight. Most 
 ### Dragonhide (material)
 ### Drained (condition)
 Blood loss or a similar effect has leeched your vitality.
-### Drop Prone (<img src="../../source/img/action.png" height="24px" alt="[one-actions]">) (basic action)
+### Drop Prone (<img src="../../source/img/action.png" width="24" alt="[one-actions]">) (basic action)
 Fall flat on the ground.
 ### Drow (trait)
 Subterranean kin of the elves, drow typically have darkvision and inborn magical abilities.
@@ -423,7 +423,7 @@ Your strength has been sapped away.
 ### Environmental (trait)
 A hazard with this trait is something dangerous that’s part of the natural world, such as quicksand or harmful mold.
 ### Envision (item activation component)
-### Escape (<img src="../../source/img/action.png" height="24px" alt="[one-actions]">) (basic action)
+### Escape (<img src="../../source/img/action.png" width="24" alt="[one-actions]">) (basic action)
 Attempt to get free when grabbed, restrained or immobilized.
 ### Ethereal (trait)
 Ethereal creatures are natives of the Ethereal Plane. They can survive the basic environmental effects of the Ethereal Plane.
@@ -461,7 +461,7 @@ Fear effects evoke the emotion of fear. Effects with this trait always have the 
 An ability you gain or select for your character due to their ancestry, background, class, general training, or skill training. Some feats grant special actions.
 ### Feat, skill
 General feat that improves skills
-### Feint (<img src="../../source/img/action.png" height="24px" alt="[one-actions]">) (skill action)
+### Feint (<img src="../../source/img/action.png" width="24" alt="[one-actions]">) (skill action)
 Misdirect someone to make them flat-footed. (Deception trained)
 ### Fey (trait)
 Creatures of the First World are called the fey.
@@ -487,7 +487,7 @@ You must run away.
 ### Flexible (armor trait)
 ### Flourish (trait)
 Flourish actions are actions that require too much exertion to perform a large number in a row. You can use only 1 action with the flourish trait per turn.
-### Fly (<img src="../../source/img/action.png" height="24px" alt="[one-actions]">) (specialty basic action)
+### Fly (<img src="../../source/img/action.png" width="24" alt="[one-actions]">) (specialty basic action)
 Move up to your fly Speed.
 ### Focus Point
 If you can cast focus spells, you have a pool of Focus Points you can use to cast them. You regain a Focus Point using the Refocus activity.
@@ -501,7 +501,7 @@ Benefit from another’s skill proficiency.
 ### Force (damage type)
 ### Force (trait)
 Effects with this trait deal force damage or create objects made of pure magical force.
-### Force Open (<img src="../../source/img/action.png" height="24px" alt="[one-actions]">) (skill action)
+### Force Open (<img src="../../source/img/action.png" width="24" alt="[one-actions]">) (skill action)
 Physically wrench something open. (Athletics)
 ### Forceful (weapon trait)
 ### Formula
@@ -511,7 +511,7 @@ A recipe or instructions required to Craft an item.
 A type of saving throw used to resist diseases, poisons, and other physical effects. Fortitude modifier = Con modifier + proficiency bonus + other bonuses + penalties.
 ### Fortune (trait)
 A fortune effect beneficially alters how you roll your dice. You can never have more than one fortune effect alter a single roll. If multiple fortune effects would apply, you have to pick which to use. If a fortune effect and a misfortune effect would apply to the same roll, the two cancel each other out and you roll normally.
-### Free action (<img src="../../source/img/action_free.png" height="24px" alt="[free-action]">)
+### Free action (<img src="../../source/img/action_free.png" width="24" alt="[free-action]">)
 An action you can use without spending one of your actions. Free actions with triggers can be used at any time, but they don’t use up your 1 reaction per round.
 ### Free-hand (weapon trait)
 ### Frequency
@@ -544,11 +544,11 @@ A creature with this trait can come from multiple tribes of creatures including 
 ### Good (trait)
 Good effects often manipulate energy from good-aligned Outer Planes and are antithetical to evil divine servants or divine servants of evil deities. A creature with this trait is good in alignment. Creatures can use abilities of an alignment without matching that alignment, but they might be anathema or change a creature’s alignment over time with repeated use.
 ### Gp (gold piece)
-### Grab an Edge (<img src="../../source/img/action_reaction.png" height="24px" alt="[reaction]">) (specialty basic action)
+### Grab an Edge (<img src="../../source/img/action_reaction.png" width="24" alt="[reaction]">) (specialty basic action)
 Try to catch yourself while falling.
 ### Grabbed (condition)
 A creature, object, or magic holds you in place.
-### Grapple (<img src="../../source/img/action.png" height="24px" alt="[one-actions]">) (skill action)
+### Grapple (<img src="../../source/img/action.png" width="24" alt="[one-actions]">) (skill action)
 Grab or restrain a creature. (Athletics)
 ### Grapple (weapon trait)
 ### Grid
@@ -579,9 +579,9 @@ A choice made to further define your ancestry.
 These points last only within a session. You can spend 1 Hero Point to reroll a check, or all your Hero Points to avoid dying. 29, awarding Hero Points (GM)
 ### Hidden (condition)
 A creature knows your location but can’t see you.
-### Hide (<img src="../../source/img/action.png" height="24px" alt="[one-actions]">) (skill action)
+### Hide (<img src="../../source/img/action.png" width="24" alt="[one-actions]">) (skill action)
 Make yourself hidden. (Stealth)
-### High Jump (<img src="../../source/img/action_double.png" height="24px" alt="[two-actions]">) (skill action)
+### High Jump (<img src="../../source/img/action_double.png" width="34" alt="[two-actions]">) (skill action)
 Jump vertically. (Athletics)
 ### Hit Points (HP)
 A statistic representing the amount of physical harm a creature can take before it falls unconscious or dies. Damage decreases Hit Points on a 1-to-1 basis, while healing restores Hit Points at the same rate.
@@ -627,7 +627,7 @@ At the start of an encounter, all participants involved roll for initiative to d
 This poison is delivered by damaging the recipient.
 ### Intelligence (Int)
 This ability score measures your reason and intellect.
-### Interact (<img src="../../source/img/action.png" height="24px" alt="[one-actions]">) (basic action)
+### Interact (<img src="../../source/img/action.png" width="24" alt="[one-actions]">) (basic action)
 Grab or manipulate an object.
 ### Intimidation (skill)
 Bend others to your will using threats. (Cha)
@@ -653,7 +653,7 @@ A creature with this trait is a member of the kobold ancestry. Kobolds are repti
 ### Lawful (damage type)
 ### Lawful (trait)
 Lawful effects often manipulate energy from law-aligned Outer Planes and are antithetical to chaotic divine servants or divine servants of chaotic deities. A creature with this trait is lawful in alignment. Creatures can use abilities of an alignment without matching that alignment, but they might be anathema or change a creature’s alignment over time with repeated use.
-### Leap (<img src="../../source/img/action.png" height="24px" alt="[one-actions]">) (basic action)
+### Leap (<img src="../../source/img/action.png" width="24" alt="[one-actions]">) (basic action)
 Jump horizontally 10 feet (15 feet if your Speed is 30 feet or more), or vertically 3 feet and horizontally 5 feet.
 ### Learn a Spell (skill action)
 Learn a new spell. (Arcana, Nature, Occultism, Religion; trained)
@@ -673,7 +673,7 @@ A feat with this trait indicates a character’s descendance from a particular t
 An effect with this trait depends on language comprehension. A linguistic effect that targets a creature works only if the target understands the language you are using.
 ### Litany (trait)
 Litanies are special devotion spells, typically used by champions and requiring a single action, that usually give temporary immunity to further litanies.
-### Long Jump (<img src="../../source/img/action_double.png" height="24px" alt="[two-actions]">) (skill action)
+### Long Jump (<img src="../../source/img/action_double.png" width="34" alt="[two-actions]">) (skill action)
 Jump horizontally. (Athletics)
 ### Lore (skill)
 Know specialized information on a narrow topic. (Int)
@@ -685,7 +685,7 @@ Something with the magical trait is imbued with magical energies not tied to a s
 Arcane, divine, occult, and primal are the traditions of magic.
 ### Make an Impression (skill action)
 Change someone’s attitude. (Diplomacy)
-### Maneuver in Flight (<img src="../../source/img/action.png" height="24px" alt="[one-actions]">) (skill action)
+### Maneuver in Flight (<img src="../../source/img/action.png" width="24" alt="[one-actions]">) (skill action)
 Execute a difficult movement while flying. (Acrobatics, trained)
 ### Manipulate (trait)
 You must physically manipulate an item or make gestures to use an action with this trait. Creatures without a suitable appendage can’t perform actions with this trait. Manipulate actions often trigger reactions.
@@ -727,7 +727,7 @@ Abilities with this trait are from the monk class. A weapon with this trait is p
 A monster is a creature that is typically inhuman and serves to thwart the PCs in some way. Beneficial monsters are exceptions in most games. The GM plays the role of any monster the PCs encounter.
 ### Morph (trait)
 Effects that slightly alter a creature’s form have the morph trait. Any Strikes specifically granted by a morph effect are magical. You can be affected by multiple morph spells at once, but if you morph the same body part more than once, the second morph effect attempts to counteract the first (in the same manner as two polymorph effects, described in that trait). Your morph effects might also end if you are polymorphed and the polymorph effect invalidates or overrides your morph effect. The GM determines which morph effects can be used together and which can’t.
-### Mount (<img src="../../source/img/action.png" height="24px" alt="[one-actions]">) (specialty basic action)
+### Mount (<img src="../../source/img/action.png" width="24" alt="[one-actions]">) (specialty basic action)
 Get on an allied creature to ride it.
 ### Mount
 An animal companion with this special ability supports its rider.
@@ -786,7 +786,7 @@ A creature with this trait is a member of the orc ancestry. These green-skinned
 ### Orichalcum (material)
 ### Paladin
 A lawful good champion.
-### Palm an Object (<img src="../../source/img/action.png" height="24px" alt="[one-actions]">) (skill action)
+### Palm an Object (<img src="../../source/img/action.png" width="24" alt="[one-actions]">) (skill action)
 Take an object without being noticed. (Thievery)
 ### Paralyzed (condition)
 You can’t move or fully defend yourself.
@@ -812,7 +812,7 @@ You keep taking damage every round.
 You’ve been turned to stone.
 ### Physical (damage type)
 An umbrella category including bludgeoning, piercing, and slashing damage.
-### Pick a Lock (<img src="../../source/img/action_double.png" height="24px" alt="[two-actions]">) (skill action)
+### Pick a Lock (<img src="../../source/img/action_double.png" width="34" alt="[two-actions]">) (skill action)
 Open a lock. (Thievery, trained)
 ### Piercing (damage type)
 A type of physical damage.
@@ -821,7 +821,7 @@ Vegetable creatures have the plant trait. They are distinct from normal plants. 
 ### Platinum piece (pp)
 ### Player Character (character or PC)
 A character created and controlled by a player other than the GM.
-### Point Out (<img src="../../source/img/action.png" height="24px" alt="[one-actions]">) (specialty basic action)
+### Point Out (<img src="../../source/img/action.png" width="24" alt="[one-actions]">) (specialty basic action)
 Indicate an undetected creature’s location.
 ### Poison (damage type)
 ### Poison (trait)
@@ -859,7 +859,7 @@ You’re lying on the ground and easier to attack.
 ### Quickened (condition)
 You get an extra action each turn.
 ### Rage (trait)
-### Raise a Shield (<img src="../../source/img/action.png" height="24px" alt="[one-actions]">) (specialty basic action)
+### Raise a Shield (<img src="../../source/img/action.png" width="24" alt="[one-actions]">) (specialty basic action)
 Gain your shield’s bonus to AC.
 ### Ranger (class)
 ### Ranger (trait)
@@ -869,11 +869,11 @@ This rarity indicates that a rules element is very difficult to find in the game
 ### Rarity
 How often something is encountered in the game world. The rarities are common, uncommon, rare, and unique. Anything that doesn’t list a rarity is common.
 ### Reach (weapon trait)
-### Reaction (<img src="../../source/img/action_reaction.png" height="24px" alt="[reaction]">)
+### Reaction (<img src="../../source/img/action_reaction.png" width="24" alt="[reaction]">)
 An action you can use even if it’s not your turn. You can use 1 reaction per round.
-### Ready (<img src="../../source/img/action_double.png" height="24px" alt="[two-actions]">) (basic action)
+### Ready (<img src="../../source/img/action_double.png" width="34" alt="[two-actions]">) (basic action)
 Prepare an action to use when it’s not your turn.
-### Recall Knowledge (<img src="../../source/img/action.png" height="24px" alt="[one-actions]">) (skill action)
+### Recall Knowledge (<img src="../../source/img/action.png" width="24" alt="[one-actions]">) (skill action)
 Try to remember something using a skill.
 ### Recovery check
 A flat check made to see if you get worse or better while dying.
@@ -881,7 +881,7 @@ A flat check made to see if you get worse or better while dying.
 A type of saving throw used to quickly dodge. Reflex modifier = Dex modifier + proficiency bonus + other bonuses + penalties.
 ### Refocus (activity)
 Regain 1 focus point.
-### Release (<img src="../../source/img/action_free.png" height="24px" alt="[free-action]">)(basic action)
+### Release (<img src="../../source/img/action_free.png" width="24" alt="[free-action]">)(basic action)
 Let go of something you’re holding.
 ### Religion (skill)
 Know about deities, faith, and divine magic. (Wis)
@@ -889,7 +889,7 @@ Know about deities, faith, and divine magic. (Wis)
 Fix a broken or damaged item. (Crafting)
 ### Repeat a Spell (exploration activity)
 Repeatedly Cast a Spell as you move.
-### Request (<img src="../../source/img/action.png" height="24px" alt="[one-actions]">) (skill action)
+### Request (<img src="../../source/img/action.png" width="24" alt="[one-actions]">) (skill action)
 Convince someone to do you a favor. (Diplomacy)
 ### Reroll
 An ability that causes you to roll again has the fortune or misfortune trait.
@@ -955,23 +955,23 @@ A scrying effect lets you see, hear, or otherwise get sensory information from a
 Look for hidden things.
 ### Secret (trait)
 The GM rolls the check for this ability in secret.
-### Seek (<img src="../../source/img/action.png" height="24px" alt="[one-actions]">) (basic action)
+### Seek (<img src="../../source/img/action.png" width="24" alt="[one-actions]">) (basic action)
 Scan an area for creatures or objects using Perception.
-### Sense Direction (<img src="../../source/img/action.png" height="24px" alt="[one-actions]">) (skill action)
+### Sense Direction (<img src="../../source/img/action.png" width="24" alt="[one-actions]">) (skill action)
 Figure out your precise location. (Survival)
-### Sense Motive (<img src="../../source/img/action.png" height="24px" alt="[one-actions]">) (basic action)
+### Sense Motive (<img src="../../source/img/action.png" width="24" alt="[one-actions]">) (basic action)
 Determine if a creature is lying.
 ### Shadow (trait)
 This magic involves shadows or the energy of the Shadow Plane.
 ### Shove (weapon trait)
 You can use this weapon to Shove with the Athletics skill even if you don’t have a free hand. This uses the weapon’s reach (if different from your own) and adds the weapon’s item bonus to attack rolls as an item bonus to the Athletics check. If you critically fail a check to Shove using the weapon, you can drop the weapon to take the effects of a failure instead of a critical failure.
-### Shove (<img src="../../source/img/action.png" height="24px" alt="[one-actions]">) (skill action)
+### Shove (<img src="../../source/img/action.png" width="24" alt="[one-actions]">) (skill action)
 Push a creature. (Athletics)
 ### Sickened (condition)
 You’re sick to your stomach.
 ### Silver (material)
 ### Silver piece (sp)
-### Single action (<img src="../../source/img/action.png" height="24px" alt="[one-actions]">)
+### Single action (<img src="../../source/img/action.png" width="24" alt="[one-actions]">)
 An action that takes one of your three actions on your turn.
 ### Size
 A creature can be Tiny, Small, Medium, Large, Huge, or Gargantuan.
@@ -990,7 +990,7 @@ You lose actions each turn.
 ### Small (size)
 ### Snare (trait)
 Traps typically made by rangers, snares follow special rules that allow them to be constructed quickly and used on the battlefield.
-### Sneak (<img src="../../source/img/action.png" height="24px" alt="[one-actions]">) (skill action)
+### Sneak (<img src="../../source/img/action.png" width="24" alt="[one-actions]">) (skill action)
 Move quietly while hidden. (Stealth)
 ### Social (trait)
 Actions and abilities with the social trait can be used only while a vigilante is in their social identity.
@@ -1032,23 +1032,23 @@ This magic item holds spells of a particular theme and allows a spellcaster to c
 One of the steps of an affliction.
 ### Stance (trait)
 A stance is a general combat strategy that you enter by using an action with the stance trait, and that you remain in for some time. A stance lasts until you get knocked out, until its requirements (if any) are violated, until the encounter ends, or until you enter a new stance, whichever comes first. After you use an action with the stance trait, you can’t use another one for 1 round. You can enter or be in a stance only in encounter mode.
-### Stand (<img src="../../source/img/action.png" height="24px" alt="[one-actions]">) (basic action)
+### Stand (<img src="../../source/img/action.png" width="24" alt="[one-actions]">) (basic action)
 Stand up from prone.
 ### Status Bonus
 A bonus that typically comes from a spell or condition and represents a beneficial status.
 ### Status Penalty
 A penalty that typically comes from a spell or condition and represents a detrimental status.
-### Steal (<img src="../../source/img/action.png" height="24px" alt="[one-actions]">) (skill action)
+### Steal (<img src="../../source/img/action.png" width="24" alt="[one-actions]">) (skill action)
 Pilfer an object in someone else’s possession. (Thievery)
 ### Stealth (skill)
 Avoid detection and conceal items. (Dex)
-### Step (<img src="../../source/img/action.png" height="24px" alt="[one-actions]">) (basic action)
+### Step (<img src="../../source/img/action.png" width="24" alt="[one-actions]">) (basic action)
 Move 5 feet without triggering reactions.
 ### Strength (Str)
 This ability score measures your brawn.
-### Stride (<img src="../../source/img/action.png" height="24px" alt="[one-actions]">) (basic action)
+### Stride (<img src="../../source/img/action.png" width="24" alt="[one-actions]">) (basic action)
 Move up to your Speed.
-### Strike (<img src="../../source/img/action.png" height="24px" alt="[one-actions]">) (basic action)
+### Strike (<img src="../../source/img/action.png" width="24" alt="[one-actions]">) (basic action)
 Make an attack with a weapon or unarmed attack.
 ### Structure (trait)
 An item with the structure trait creates a magical building or other structure when activated. The item must be activated on a plot of land free of other structures. The structure adapts to the natural terrain, adopting the structural requirements for being built there. The structure adjusts around small features such as ponds or spires of rock, but it can’t be created on water or other nonsolid surfaces. If activated on snow, sand dunes, or other soft surfaces with a solid surface underneath, the structure’s foundation (if any) reaches the solid ground. If an item with this trait is activated on a solid but unstable surface, such as a swamp or an area plagued by tremors, roll a DC 3 flat check each day; on a failure, the structure begins to sink or collapse. The structure doesn’t harm creatures within the area when it appears, and it can’t be created within a crowd or in a densely populated area. Any creature inadvertently caught inside the structure when the item is activated ends up unharmed inside the complete structure and always has a clear path of escape. A creature inside the structure when the activation ends isn’t harmed, and it lands harmlessly on the ground if it was on an upper level of the structure.
@@ -1063,21 +1063,21 @@ A result on a check that equals or exceeds the DC. Exceeding the DC by or more i
 ### Summoned (trait)
 A creature called by a conjuration spell or effect gains the summoned trait. A summoned creature can’t summon other creatures, create things of value, or cast spells that require a cost. It has the minion trait. If it tries to cast a spell of equal or higher level than the spell that summoned it, it overpowers the summoning magic, causing the summoned creature’s spell to fail and the summon spell to end. Otherwise, the summoned creature uses the standard abilities for a creature of its kind. It generally attacks your enemies to the best of its abilities. If you can communicate with it, you can attempt to command it, but the GM determines the degree to which it follows your commands. Immediately when you finish Casting the Spell, the summoned creature uses its 2 actions for that turn. Summoned creatures can be banished by various spells and effects. They are automatically banished if reduced to 0 Hit Points or if the spell that called them ends.
 A summoned creature can’t control any spawn or other creatures generated from it, and such creatures return to their unaltered state (usually a corpse in the case of spawn) once the summoned creature is gone. If it’s unclear what this state would be, the GM decides.
-### Support (<img src="../../source/img/action.png" height="24px" alt="[one-actions]">)
+### Support (<img src="../../source/img/action.png" width="24" alt="[one-actions]">)
 Direct your animal companion to support you.
 ### Survival (skill)
 Travel and survive in the wild. (Wis)
-### Sustain a Spell (<img src="../../source/img/action.png" height="24px" alt="[one-actions]">) (action)
+### Sustain a Spell (<img src="../../source/img/action.png" width="24" alt="[one-actions]">) (action)
 Extend a spell with a sustained duration.
-### Sustain an Activation (<img src="../../source/img/action.png" height="24px" alt="[one-actions]">) (action)
+### Sustain an Activation (<img src="../../source/img/action.png" width="24" alt="[one-actions]">) (action)
 Extend a magic item activation with a sustained duration to the end of your next turn.
 ### Sustained
 A spell with this duration can be extended with Sustain a Spell.
 ### Swashbuckler (trait)
 This trait indicates abilities from the swashbuckler class.
-### Swim (<img src="../../source/img/action.png" height="24px" alt="[one-actions]">) (skill action)
+### Swim (<img src="../../source/img/action.png" width="24" alt="[one-actions]">) (skill action)
 Move through the water. (Athletics)
-### Take Cover (<img src="../../source/img/action.png" height="24px" alt="[one-actions]">) (basic action)
+### Take Cover (<img src="../../source/img/action.png" width="24" alt="[one-actions]">) (basic action)
 Gain cover, or improve cover to greater cover.
 ### Talisman (trait)
 A talisman is a small object affixed to armor, a shield, or a weapon (called the affixed item). You must be wielding or wearing an item to activate a talisman attached to it. Once activated, a talisman burns out permanently.
@@ -1111,15 +1111,15 @@ Effects and magic items with this trait are associated with the transmutation sc
 A hazard or item with this trait is constructed to hinder interlopers. — travel Speed treasure See also item.
 ### Treat Disease (skill action)
 Remedy a disease in downtime. (Medicine, trained)
-### Treat Poison (<img src="../../source/img/action.png" height="24px" alt="[one-actions]">) (skill action)
+### Treat Poison (<img src="../../source/img/action.png" width="24" alt="[one-actions]">) (skill action)
 Help a poisoned patient recover. (Medicine, trained)
 ### Treat Wounds (skill action)
 Restore Hit Points to a creature. (Medicine, trained) tremorsense (sense) Detect the movement of creatures along surfaces.
 ### Trigger
 A specified event when you can use a reaction or free action.
-### Trip (<img src="../../source/img/action.png" height="24px" alt="[one-actions]">) (skill action)
+### Trip (<img src="../../source/img/action.png" width="24" alt="[one-actions]">) (skill action)
 Knock a creature down. (Athletics)
-### Tumble Through (<img src="../../source/img/action.png" height="24px" alt="[one-actions]">) (skill action)
+### Tumble Through (<img src="../../source/img/action.png" width="24" alt="[one-actions]">) (skill action)
 Move through someone’s space. (Acrobatics) turn During a round in an encounter, each creature takes a single turn. A creature typically uses up to 3 actions during its turn.
 ### Two-hand (weapon trait)
 This weapon can be wielded with two hands. Doing so changes its weapon damage die to the indicated value. This change applies to all the weapon’s damage dice, such as those from striking runes.
