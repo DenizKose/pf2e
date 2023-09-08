@@ -44,3 +44,7 @@
 ## 💰 Ремесло та скарби <a href="#crafting-and-treasure" id="crafting-and-treasure"></a>
 
 * [Вступ до глави](crafting-and-treasure/vstup-do-glavi.md)
+
+## ℹ Додаток <a href="#appendix" id="appendix"></a>
+
+* [Глосарій](appendix/glosarii.md)
